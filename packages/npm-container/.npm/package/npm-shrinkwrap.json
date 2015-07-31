@@ -143,6 +143,9 @@
         }
       }
     },
+    "leaflet": {
+      "version": "0.7.0"
+    },
     "material-ui": {
       "version": "0.10.1",
       "dependencies": {
@@ -183,6 +186,14 @@
               }
             }
           }
+        }
+      }
+    },
+    "react-leaflet": {
+      "version": "0.6.2",
+      "dependencies": {
+        "lodash": {
+          "version": "3.10.0"
         }
       }
     },
